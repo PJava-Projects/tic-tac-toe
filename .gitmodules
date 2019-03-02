@@ -1,0 +1,3 @@
+[submodule "src/termcolor"]
+	path = src/termcolor
+	url = https://github.com/PJava-Projects/termcolor
